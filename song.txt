@@ -4,4 +4,3 @@ Third
 Fourth
 
 some content
-----------------------------
